@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "FinalHw.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hw.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "hw01.App",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "App02",
+            "request": "launch",
+            "mainClass": "hw02.App02",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hw03.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "hw04.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "hw05.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "hw06.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "hw07.Main",
+            "projectName": "ООП_f77579a"
+        }
+    ]
+}
