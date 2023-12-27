@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "ToyStore.Main",
+            "projectName": "ООП_f77579a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "ExceptionHW03.Main",
             "projectName": "ООП_f77579a"
         },
